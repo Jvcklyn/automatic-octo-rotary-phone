@@ -1,2 +1,2 @@
-# automatic-octo-rotary-phone
+# snu_practice
 Assignments

@@ -1,2 +1,4 @@
 # snu_practice
-Assignments
+Assignment
+
+1. Data Structures
